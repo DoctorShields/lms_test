@@ -1,6 +1,6 @@
 # rock-band
 
-![rock-band](en/images/small_banner.png)
+![rock-band](en/images/banner.png)
 
 Find the project online at [projects.raspberrypi.org/en/projects/rock-band](https://projects.raspberrypi.org/en/projects/rock-band)
 
